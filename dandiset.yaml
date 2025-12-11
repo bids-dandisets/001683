@@ -11,9 +11,9 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Gao, Huan (2025) Transcranial Focused Ultrasound Stimulation Targeting White
-  Matter Inhibits Seizures in a Rat Model of Epilepsy (Version draft) [Data set].
-  DANDI Archive. https://dandiarchive.org/dandiset/001683/draft
+citation: Gao, Huan; He, Bin; Frake, Annabel; Durand, Dominique M (2025) Transcranial
+  Focused Ultrasound Stimulation Targeting White Matter Inhibits Seizures in a Rat
+  Model of Epilepsy (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001683/draft
 contributor:
 - affiliation: []
   email: huangao@andrew.cmu.edu
@@ -22,6 +22,45 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- includeInCitation: true
+  name: He, Bin
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- name: Carnegie Mellon University
+  roleName:
+  - dcite:Affiliation
+  schemaKey: Organization
+- includeInCitation: true
+  name: Frake, Annabel
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- includeInCitation: true
+  name: Durand, Dominique M
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- name: NIH NS131069
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- name: NIH NS124564
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- name: NIH NS096761
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- name: NIH NS127849-01A1
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- name: NIH EB029365
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2025-12-11T00:53:03.068149+00:00'
 description: "In this dataset, we recorded 32-channel EEG and 64-channel intracranial
   signals from wild-type male rats and male rats with seizures induced by repeated
@@ -52,7 +91,6 @@ id: DANDI:001683/draft
 identifier: DANDI:001683
 license:
 - spdx:CC-BY-4.0
-- spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001683/versions/draft/assets/
 name: Transcranial Focused Ultrasound Stimulation Targeting White Matter Inhibits

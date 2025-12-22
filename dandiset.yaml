@@ -16,12 +16,12 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2931605248
-  numberOfFiles: 1
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 5864499832
+  numberOfFiles: 2
   numberOfSubjects: 1
   schemaKey: AssetsSummary
   species:
@@ -29,8 +29,8 @@ assetsSummary:
     name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured:
-  - ElectrodeGroup
   - ElectricalSeries
+  - ElectrodeGroup
 citation: Gao, Huan; Frake, Annabel; Durand, Dominique M; He, Bin (2025) Transcranial
   Focused Ultrasound Stimulation Targeting White Matter Inhibits Seizures in a Rat
   Model of Epilepsy (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001683/draft

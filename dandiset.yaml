@@ -20,8 +20,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 202337354952
-  numberOfFiles: 69
+  numberOfBytes: 223463681632
+  numberOfFiles: 94
   numberOfSubjects: 16
   schemaKey: AssetsSummary
   species:
@@ -95,12 +95,13 @@ description: 'In this dataset, we recorded 32-channel EEG and 64-channel intracr
   delivered using a 128-element transducer targeting the corpus callosum (CC, predominantly
   white matter) with a 1 Hz pulse repetition frequency (PRF), 2% duty cycle (DC),
   and ~127 kPa peak pressure. The "EP data" contain evoked potentials used to verify
-  accurate targeting of the stimulation site. The "processed data" includes the seizure
-  metrics and connectivity analysis. Detailed description of this dataset can be found
-  in the following publication. Please cite the paper if you would use a portion of
-  the dataset. Gao, H., Frake, A., Durand, DM., & He, B. Transcranial Focused Ultrasound
-  Stimulation Targeting White Matter Inhibits Seizures in a Rat Model of Epilepsy.
-  IEEE Transactions on Neural Systems and Rehabilitation Engineering.'
+  accurate targeting of the stimulation site with 1500Hz PRF, 30% DC and 67ms ultrasound
+  duration (UD). The "EEG data for PLV" includes the EEG data for connectivity analysis
+  of wild-type rats. Detailed description of this dataset can be found in the following
+  publication. Please cite the paper if you would use a portion of the dataset. Gao,
+  H., Frake, A., Durand, DM., & He, B. Transcranial Focused Ultrasound Stimulation
+  Targeting White Matter Inhibits Seizures in a Rat Model of Epilepsy. IEEE Transactions
+  on Neural Systems and Rehabilitation Engineering, doi: 10.1109/TNSRE.2025.3644273.'
 ethicsApproval: []
 id: DANDI:001683/draft
 identifier: DANDI:001683

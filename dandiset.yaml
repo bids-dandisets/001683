@@ -31,7 +31,7 @@ assetsSummary:
   variableMeasured:
   - ElectrodeGroup
   - ElectricalSeries
-citation: Gao, Huan; Frake, Annabel; Durand, Dominique M; He, Bin (2025) Transcranial
+citation: Gao, Huan; Frake, Annabel; Durand, Dominique M; He, Bin (2026) Transcranial
   Focused Ultrasound Stimulation Targeting White Matter Inhibits Seizures in a Rat
   Model of Epilepsy (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001683/draft
 contributor:
@@ -98,10 +98,11 @@ description: 'In this dataset, we recorded 32-channel EEG and 64-channel intracr
   accurate targeting of the stimulation site with 1500Hz PRF, 30% DC and 67ms ultrasound
   duration (UD). The "EEG data for PLV" includes the EEG data for connectivity analysis
   of wild-type rats. Detailed description of this dataset can be found in the following
-  publication. Please cite the paper if you would use a portion of the dataset. Gao,
-  H., Frake, A., Durand, DM., & He, B. Transcranial Focused Ultrasound Stimulation
-  Targeting White Matter Inhibits Seizures in a Rat Model of Epilepsy. IEEE Transactions
-  on Neural Systems and Rehabilitation Engineering, doi: 10.1109/TNSRE.2025.3644273.'
+  publication. Please cite the paper if you would use a portion of the dataset. H.
+  Gao, A. Frake, D. M. Durand and B. He, "Transcranial Focused Ultrasound Stimulation
+  Targeting White Matter Inhibits Seizures in a Rat Model of Epilepsy," in IEEE Transactions
+  on Neural Systems and Rehabilitation Engineering, vol. 34, pp. 251-259, 2026, doi:
+  10.1109/TNSRE.2025.3644273'
 ethicsApproval: []
 id: DANDI:001683/draft
 identifier: DANDI:001683
